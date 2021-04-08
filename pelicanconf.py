@@ -47,13 +47,6 @@ TWITTER_USERNAME = '@paulovsp16'
 
 MENUITEMS = (('Blog', 'https://splatter-dev.github.io/'),)
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-DISQUS_SITENAME = ""
-GOOGLE_ANALYTICS = ""
-
-
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
